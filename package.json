@@ -1,0 +1,26 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victavila/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victavila/testing-practice/issues"
+  },
+  "homepage": "https://github.com/victavila/testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.0",
+    "jest": "^28.1.0",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
